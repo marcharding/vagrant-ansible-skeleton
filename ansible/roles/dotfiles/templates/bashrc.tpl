@@ -70,7 +70,7 @@ export HISTSIZE=100000
 # Other Stuff
 # #########
 
-setup default language
+# setup default language
 export LANG="en_EN.UTF-8"
 
 # setup pager
